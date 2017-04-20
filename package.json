@@ -1,0 +1,24 @@
+{
+  "name": "nlu-trainer",
+  "version": "1.0.0",
+  "description": "UI for training nlu.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajhub/nlu-trainer.git"
+  },
+  "keywords": [
+    "Nlu",
+    "trainer",
+    "react"
+  ],
+  "author": "Ajinkya Salve",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajhub/nlu-trainer/issues"
+  },
+  "homepage": "https://github.com/ajhub/nlu-trainer#readme"
+}
